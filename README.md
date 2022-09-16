@@ -1,5 +1,5 @@
 <h3 align="center">✨ Maciej Zwierzchlewski ✨</h3>
-<p align="center">⭐ Software Developer ⭐ Dog Lover ⭐ Amateur Baker ⭐</p>
+<p align="center">⭐ Software Engineer ⭐ Dog Lover ⭐ Amateur Baker ⭐</p>
 
 <table>
   <tr>
